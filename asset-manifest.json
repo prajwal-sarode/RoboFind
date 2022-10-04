@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RoboFind/static/css/main.eb2ebe5b.css",
+    "main.js": "/RoboFind/static/js/main.a99e261a.js",
+    "static/js/787.378d082e.chunk.js": "/RoboFind/static/js/787.378d082e.chunk.js",
+    "static/media/SEGA.woff": "/RoboFind/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/RoboFind/index.html",
+    "main.eb2ebe5b.css.map": "/RoboFind/static/css/main.eb2ebe5b.css.map",
+    "main.a99e261a.js.map": "/RoboFind/static/js/main.a99e261a.js.map",
+    "787.378d082e.chunk.js.map": "/RoboFind/static/js/787.378d082e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb2ebe5b.css",
+    "static/js/main.a99e261a.js"
+  ]
+}
